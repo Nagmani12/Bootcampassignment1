@@ -3,7 +3,7 @@ SportClub
 City
 SportFeatures
 Membership
-Ragister_club
+Register_club
 Services
 Membership_plan
 
@@ -14,8 +14,8 @@ life time membership
 weekly------------------
 sorttuam
 montholy----------------
-tunament
-singal
+turnament
+signal
 playeer id,name,gender,
 static
 playersname,dob,gender
@@ -25,7 +25,7 @@ multivalue
 mobilenumber,email,address,playingroalclass
 SportClub
 City
-SportFeatures
+SportFeature
 Membership
 Ragister_club
 Services
@@ -36,9 +36,9 @@ indhor game
 outdhor game
 life time membership
 weekly------------------
-sorttuam
-montholy----------------
-tunament
+sortterm
+monthly----------------
+tuornament
 singal
 playeer id,name,gender,
 static
